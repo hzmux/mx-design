@@ -32,7 +32,7 @@ user-invocable: true
 
 ### 2. 搜索资源
 
-在 `/Users/chenchen/mx/ui/awesome-shadcn-ui/README.md` 中使用 Grep 搜索相关关键词：
+在同目录下的 `README.md` 中使用 Grep 搜索相关关键词：
 
 ```bash
 # 搜索特定组件类型
